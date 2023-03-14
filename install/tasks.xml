@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concrete5-cif version="1.0">
+    <tasks>
+        <task handle="clear_empty_workflow" package="md_clear_empty_workflow"/>
+    </tasks>
+</concrete5-cif>
